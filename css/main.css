@@ -424,7 +424,7 @@ body {
 
 @media screen and (max-width: 1000px) {
     .swiper-slide .container {
-        padding-left: 0 3rem;
+        padding-left: 3rem;
     }
 
 
@@ -611,8 +611,6 @@ body {
     /* align-items: center; */
     align-content: center;
     justify-content: center;
-
-
     transform: translateX(-100%);
     opacity: 0;
     transition: transform 1.5s, opacity 0.2s;
